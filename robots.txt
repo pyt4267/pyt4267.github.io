@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pyt4267.github.io/sitemap.xml

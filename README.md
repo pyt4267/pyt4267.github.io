@@ -12,6 +12,7 @@
 
 ## 最近の記事
 
+- [ExpressVPN 日本での使い方 会社員向け設定と注意点](https://pyt4267.github.io/read/expressvpn-japan-setup-notes/)
 - [AI文字起こしの精度を上げる録音のコツ](https://pyt4267.github.io/read/ai-text-transcription-recording-tips/)
 - [マネーフォワード 口座連携失敗の原因と対処を会社員向けに解説](https://pyt4267.github.io/read/moneyforward-kouza-renkei-shippai/)
 - [クレカ審査にバーチャルオフィス住所は使える？確認手順](https://pyt4267.github.io/read/kureka-shinsa-virtual-office-address/)
@@ -19,6 +20,5 @@
 - [会議の文字起こしを外注せず進める手順と機材なしの準備](https://pyt4267.github.io/read/meeting-transcription-inhouse/)
 - [経費精算の締め日対応｜会社員と個人事業主の4ルール](https://pyt4267.github.io/read/keihi-seisan-shimebi-ouat-rules/)
 - [freee会計の勘定科目の直し方｜修正手順と確認ポイント](https://pyt4267.github.io/read/freee-kaikei-kamoku-kaisei-shoki-settei/)
-- [フリーランス開業で迷わない屋号と住所の決め方](https://pyt4267.github.io/read/freelance-yagou-juusho-kimikata/)
 
 アフィリエイト広告を含みます。

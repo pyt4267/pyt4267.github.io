@@ -12,6 +12,7 @@
 
 ## 最近の記事
 
+- [副業の経費精算を自動化する手順を会社員向けに解説](https://pyt4267.github.io/read/fukugyo-keihi-seissan-jidouka-tejun/)
 - [Karigoの料金と契約前確認｜副業会社員向け](https://pyt4267.github.io/read/karigo-pricing-contract-check/)
 - [VPN選びで先に確認する4つの条件｜会社員・個人事業主向け](https://pyt4267.github.io/read/vpn-selection-4-criteria-before-price/)
 - [仕事で使うVPNの安全な選び方と確認手順](https://pyt4267.github.io/read/work-vpn-safe-selection/)
@@ -19,6 +20,5 @@
 - [バーチャルオフィス乗り換え手順｜二重払い防止](https://pyt4267.github.io/read/virtual-office-switching-guide/)
 - [VPN選び方｜会社員が規定に沿って選ぶ方法](https://pyt4267.github.io/read/telework-vpn-company-policy/)
 - [バーチャルオフィス選び方｜個人事業主向け比較軸](https://pyt4267.github.io/read/virtual-office-comparison-freelancer/)
-- [Plaud NOTE料金と用途で導入判断（会社員・個人事業主）](https://pyt4267.github.io/read/plaud-note-pricing-use-cases/)
 
 アフィリエイト広告を含みます。

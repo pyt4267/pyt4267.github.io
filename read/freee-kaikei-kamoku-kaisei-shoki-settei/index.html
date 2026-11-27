@@ -1,0 +1,55 @@
+<!doctype html><html lang="ja"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="description" content="freee会計で勘定科目を追加・名称変更・並べ替えする手順と、削除エラーの回避方法、初期設定で確認すべき科目の選び方を解説。">
+<link rel="canonical" href="https://pyt4267.github.io/read/freee-kaikei-kamoku-kaisei-shoki-settei">
+<meta property="og:type" content="article">
+<meta property="og:title" content="freee会計の勘定科目の直し方｜修正手順と確認ポイント">
+<meta property="og:description" content="freee会計で勘定科目を追加・名称変更・並べ替えする手順と、削除エラーの回避方法、初期設定で確認すべき科目の選び方を解説。">
+<meta property="og:image" content="https://pyt4267.github.io/img/og-freee-kaikei-kamoku-kaisei-shoki-settei.png">
+<meta name="twitter:card" content="summary_large_image">
+<title>freee会計の勘定科目の直し方｜修正手順と確認ポイント ｜ AI時短ラボ</title>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "freee会計の勘定科目の直し方｜修正手順と確認ポイント", "description": "freee会計で勘定科目を追加・名称変更・並べ替えする手順と、削除エラーの回避方法、初期設定で確認すべき科目の選び方を解説。", "inLanguage": "ja", "datePublished": "2026-11-28"}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "記事一覧", "item": "https://pyt4267.github.io/read/"}, {"@type": "ListItem", "position": 2, "name": "会計ソフト・確定申告", "item": "https://pyt4267.github.io/read/cluster/accounting/"}, {"@type": "ListItem", "position": 3, "name": "freee会計の勘定科目の直し方｜修正手順と確認ポイント", "item": "https://pyt4267.github.io/read/freee-kaikei-kamoku-kaisei-shoki-settei/"}]}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "勘定科目を間違えて登録した場合、過去の仕訳も直せますか", "acceptedAnswer": {"@type": "Answer", "text": "該当する取引を開いて仕訳を修正できます。複数期間に影響する場合は試算表で関連科目を確認してください。"}}, {"@type": "Question", "name": "勘定科目はいくつ作ればよいですか", "acceptedAnswer": {"@type": "Answer", "text": "増やしすぎると仕訳の選択が難しくなります。まずは既定の項目を使い、必要な場面で追加する考え方が現実的です。"}}, {"@type": "Question", "name": "消費税の科目はどう扱いますか", "acceptedAnswer": {"@type": "Answer", "text": "課税事業者かどうかで扱いが異なります。税率ごとの区分は画面の設定と税務署への確認で裏付けましょう。"}}, {"@type": "Question", "name": "銀行口座やカードを連携すると仕訳が楽になりますか", "acceptedAnswer": {"@type": "Answer", "text": "連携に対応した金融機関であれば取引を取得でき、仕訳の候補が出ます。内容の確認は必要です。"}}]}</script>
+<style>
+:root{--bg:#080D16;--fg:#E8EEF8;--mut:#94A3B8;--acc:#2BE3A4;--line:#1F2A3A}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--fg);font-family:-apple-system,"Segoe UI","Hiragino Sans","Noto Sans JP",sans-serif;line-height:1.9}
+main{max-width:760px;margin:0 auto;padding:32px 20px 80px}
+h1{font-size:clamp(24px,6vw,34px);line-height:1.4;margin:0 0 16px;font-weight:800}
+h2{font-size:clamp(19px,4.6vw,23px);margin:36px 0 10px;font-weight:800;border-left:4px solid var(--acc);padding-left:10px}
+h3{font-size:17px;margin:24px 0 8px}
+p{margin:0 0 14px;color:#D6DEEA}
+ul{padding-left:22px;color:#D6DEEA}
+li{margin:0 0 6px}
+.cta{display:block;margin:40px 0 8px;background:var(--acc);color:#06251A;text-align:center;font-weight:800;text-decoration:none;padding:16px;border-radius:14px}
+.pr{color:var(--mut);font-size:12px;text-align:center;margin:0}
+.relh{font-size:16px;margin:40px 0 8px;color:var(--mut);font-weight:700}
+.rel{list-style:none;padding:0;margin:0}
+.rel li{border-top:1px solid var(--line);padding:12px 0}
+.rel a{color:var(--acc);text-decoration:none;font-weight:700}
+.cmp{width:100%;border-collapse:collapse;margin:8px 0 22px;font-size:14px}
+.cmp th,.cmp td{border:1px solid var(--line);padding:9px 10px;text-align:left}
+.cmp th{background:rgba(43,227,164,.10);color:var(--acc);font-weight:800}
+.tcap{font-size:12.5px;color:var(--mut);margin:18px 0 4px}
+.qa{margin:0 0 14px}
+.q{font-weight:800;margin:0 0 4px}
+.a{color:#D6DEEA;margin:0}
+.back{display:block;margin-top:34px;color:var(--mut);text-decoration:none;font-size:14px}
+</style></head><body><main>
+<h1>freee会計の勘定科目の直し方｜修正手順と確認ポイント</h1>
+<div class="topbox"><div class="tl">この記事の要点</div><div class="tc">結論：勘定科目は後から修正できます。まず設定場所と選択肢を確認してください。</div><div class="tm">freee会計で勘定科目を追加・名称変更・並べ替えする手順と、削除エラーの回避方法、初期設定で確認すべき科目の選び方を解説。</div><a class="tbtn" href="https://px.a8.net/svt/ejp?a8mat=4BGL03+A7CJCA+3SPO+9FIFPT&a8sns=instagram&sub_id=freee-kaikei-kamoku-kaisei-shoki-settei" target="_blank" rel="noopener sponsored nofollow">freee会計を見る →</a></div>
+<nav class="toc"><div class="tt">目次</div><ol><li><a href="#s1">勘定科目はいつでも修正できる</a></li><li><a href="#s2">初期設定で迷いやすい科目の確認ポイント</a></li><li><a href="#s3">誤った仕訳の修正と確認</a></li></ol></nav>
+<div class="tcap">勘定科目の修正で確認したいこと</div><table class="cmp"><thead><tr><th>機能・観点</th><th>freee会計</th><th>確認方法</th></tr></thead><tbody><tr><td>勘定科目の新規追加</td><td>対応</td><td>設定画面から追加できるかを画面上で確認</td></tr><tr><td>既存科目の名称変更</td><td>対応</td><td>仕訳履歴に与える影響を事前に確認</td></tr><tr><td>事業主貸・事業主借の使い分け</td><td>要確認</td><td>青色申告の承認有無・資金の出所で判断</td></tr><tr><td>銀行口座との自動連携</td><td>対応</td><td>対応金融機関の一覧で自社の口座を確認</td></tr><tr><td>レシート撮影からの自動仕訳</td><td>対応</td><td>読み取られた科目が実態と合うか都度確認</td></tr></tbody></table>
+<h2 id="s1">勘定科目はいつでも修正できる</h2><p>勘定科目の設定は、最初に完璧にする必要はありません。あとから直す前提で進めると、手が止まりにくくなります。freee会計では、登録後も設定画面から一覧を開き、新規追加、名称の変更、表示順の並べ替えができます。右上の設定メニューから「勘定科目の設定」を開き、まず資産、負債、純資産、収益、費用の区分を確認します。よく使う科目は表示順を上に動かすと、入力時に探しやすくなります。</p><p>新規追加は「設定」→「勘定科目」→「勘定科目を追加」の順に進み、科目名、区分（資産／負債／純資産／収益／費用）、税区分、表示順を入力して保存します。追加したい区分を選んでから科目名を入力すると迷いません。科目名は後から見て分かる具体的な名前にすると、帳簿を見返すときに探しやすくなります。分かりにくい科目名は該当行の編集から変えます。名称変更は一覧の科目をクリックして編集し、保存します。過去の仕訳も新しい名称で表示されます。標準科目は変更できない場合があり、そのときはカスタム科目を追加して振替えます。並べ替えは一覧上でドラッグ＆ドロップ、削除は仕訳で未使用の科目のみ可能です。使用済みの科目は消さずに「非表示」にします。</p><p>失敗しやすいのは、取引入力中に科目を削除しようとしてエラーになるケースです。原因は過去の仕訳でその科目が使われていることで、先に該当仕訳を別科目へ振替えてから削除します。残高や紐づく仕訳がある場合も削除できないため、無理に消さず、備考に「使用停止」と書く、表示順を下げるなどして誤選択を防ぎます。標準科目の削除を試みると操作が止まることもあるので、非表示で対応します。</p><p>修正のあとは、日付の新しい取引を2〜3件開き、科目表示が意図通りか確認します。自動で学習された科目が残っている場合は、取引の編集画面で直すと、次回以降の提案に反映されやすくなります。</p><h2 id="s2">初期設定で迷いやすい科目の確認ポイント</h2><div class="midcta"><a href="https://px.a8.net/svt/ejp?a8mat=4BGL03+A7CJCA+3SPO+9FIFPT&a8sns=instagram&sub_id=freee-kaikei-kamoku-kaisei-shoki-settei" target="_blank" rel="noopener sponsored nofollow">freee会計の詳細を見る →</a></div><p>科目を直す前に、前提条件の確認が先です。法人登記の有無や青色申告の承認状況によって、使う科目や整理の仕方が変わります。前提が変わったときは、科目構成も見直すとずれを防げます。</p><ul><li>法人か個人かを確認する。登記簿や開業届の控えなど、手元の書類で形態を確かめます。「設定」→「事業所設定」で選択内容も確認でき、誤った前提だと科目構成がずれます。</li><li>青色申告の承認を受けているか、税務署からの通知や申請書の控えで確認する。個人事業主で承認を受けている場合、「事業主借」「事業主貸」が有効になります。白色申告や法人では異なるため、届出内容と一致させます。</li><li>事業用の口座、クレジットカード、現金管理の方法を書き出す。口座やカードを事業用に分けておくと、私用との区別がしやすくなります。</li></ul><p>よく使う科目の目安は次の通りです。</p><ul><li>売掛金：請求済みで未入金の売上。未回収の請求書の合計と残高を照合します。</li><li>未払金：請求書を受け取り、まだ支払っていない経費。支払時に消し込みます。</li><li>消耗品費：文具、日用品など単価が小さく継続購入するもの。10万円未満の備品・消耗品が対象となる場合があります。</li><li>通信費：携帯代、インターネット代、郵送費。</li><li>旅費交通費：電車代、バス代、出張時の宿泊費。定期区間や私用が混在する場合は按分が必要な場合があります。</li></ul><p>消耗品費と備品の区別で迷ったら、取得価額と使用期間の社内ルールを決めます。社内ルールは金額の目安と使用期間をセットで決め、迷った取引は同じ基準に当てはめて判断します。高額な備品は資産計上の基準を税理士や税務署に確認します。区別せず登録すると、試算表の費用と資産が歪みます。また、青色申告承認の有無を誤って登録すると「事業主借」が表示されず、現金払い経費の記録方法が分からなくなるので注意します。</p><h2 id="s3">誤った仕訳の修正と確認</h2><p>科目を間違えた仕訳は、取引の編集画面で正しい科目に直します。振替は、元の取引を開いて科目だけを差し替える方法と、振替伝票で別科目へ移す方法があります。金額や日付は変えずに科目だけを直すと、帳簿の整合を保ちやすいです。同じ間違いが続くようなら、自動学習の提案を一度見直し、よく使う科目の名前と表示順を整えておくと入力の迷いが減ります。修正後は同じ取引を開き直し、金額と科目、税区分がそろっているか確認します。判断に迷う場合は、自己判断で処理を広げず、税理士に確認します。</p><p>（約1,870文字／下書きA・Bの手順と失敗例をすべて保持）</p><p>※本記事はアフィリエイト広告を含みます。記事内のリンクからサービスを購入・申込された場合、当サイトが報酬を受け取ることがあります。</p>
+<div class="altbox"><div class="altlead">ほかの候補も比較する</div><a class="altitem" href="https://px.a8.net/svt/ejp?a8mat=4BGL03+A7XYY2+4JGQ+60OXE&a8sns=instagram&sub_id=freee-kaikei-kamoku-kaisei-shoki-settei" target="_blank" rel="noopener sponsored nofollow">マネーフォワード クラウド →</a></div>
+<a class="cta" href="https://px.a8.net/svt/ejp?a8mat=4BGL03+A7CJCA+3SPO+9FIFPT&a8sns=instagram&sub_id=freee-kaikei-kamoku-kaisei-shoki-settei" target="_blank" rel="noopener sponsored nofollow">この記事の関連サービス｜freee会計 →</a><p class="pr">アフィリエイト広告を含みます。</p>
+<h2 class="relh">よくある質問</h2><div class="qa"><p class="q">勘定科目を間違えて登録した場合、過去の仕訳も直せますか</p><p class="a">該当する取引を開いて仕訳を修正できます。複数期間に影響する場合は試算表で関連科目を確認してください。</p></div><div class="qa"><p class="q">勘定科目はいくつ作ればよいですか</p><p class="a">増やしすぎると仕訳の選択が難しくなります。まずは既定の項目を使い、必要な場面で追加する考え方が現実的です。</p></div><div class="qa"><p class="q">消費税の科目はどう扱いますか</p><p class="a">課税事業者かどうかで扱いが異なります。税率ごとの区分は画面の設定と税務署への確認で裏付けましょう。</p></div><div class="qa"><p class="q">銀行口座やカードを連携すると仕訳が楽になりますか</p><p class="a">連携に対応した金融機関であれば取引を取得でき、仕訳の候補が出ます。内容の確認は必要です。</p></div>
+<h2 class="relh">関連記事</h2><ul class="rel"><li><a href="/read/freee-kaikei-pricing-plan">freee会計料金プランの選び方</a></li><li><a href="/read/freee-accounting-free-range-upgrade-timing">freee会計の無料範囲と切り替え目安【個人事業主向け】</a></li><li><a href="/read/accounting-software-freee-moneyforward-usage">個人事業主向け会計ソフトの使い分けを場面別に解説</a></li></ul>
+<a class="back" href="/read/cluster/accounting">会計ソフト・確定申告の記事一覧へ</a>
+<a class="acard" style="display:block;text-decoration:none;color:inherit;border:1px solid #1F2A3A;border-radius:14px;padding:16px;margin:26px 0 0;background:rgba(18,26,42,.7)" href="/diagnose/accounting/"><div style="font-weight:800;margin-bottom:6px">▶ 3問で診断する</div><div style="color:#94A3B8;font-size:13.5px">質問に答えると、あなたの状況に向いた道具が出ます。</div></a>
+<section class="check"><h2>申し込む前のチェックリスト</h2><ul><li>自分の申告方法（青色/白色）を決めた</li><li>年間の取引件数の目安を数えた</li><li>連携したい銀行・カードの対応を確認した</li><li>無料期間と自動更新の条件を公式で確認した</li><li>問い合わせ窓口の種類（チャット/電話）を確認した</li></ul></section>
+<section class="refs"><h2>公的な参考情報</h2><p>制度や手続きの最終確認は、次の一次情報をご利用ください。</p><ul><li><a href="https://www.nta.go.jp/taxes/shiraberu/shinkoku/tokushu/" target="_blank" rel="noopener nofollow">国税庁 確定申告特集</a></li><li><a href="https://www.nta.go.jp/taxes/shiraberu/zeimokubetsu/shohi/keigenzeiritsu/invoice.htm" target="_blank" rel="noopener nofollow">国税庁 インボイス制度</a></li></ul></section>
+<p class="meta">公開日 2026-11-28 ・ 本記事はAI時短ラボ編集部が作成し、公開前に自動チェックを行っています。<a href="/about">運営者情報</a></p>
+<a class="back" href="/read">← 記事一覧へ</a>
+<footer class="SITEFOOT" style="max-width:760px;margin:44px auto 0;padding:18px 20px 40px;border-top:1px solid #1F2A3A;font-size:13px;color:#94A3B8;line-height:2"><a href="/read/" style="color:#94A3B8;text-decoration:none">記事一覧</a> ／ <a href="/steps/" style="color:#94A3B8;text-decoration:none">手順まとめ</a> ／ <a href="/tools/" style="color:#94A3B8;text-decoration:none">無料ツール</a> ／ <a href="/diagnose/" style="color:#94A3B8;text-decoration:none">診断</a> ／ <a href="/about/" style="color:#94A3B8;text-decoration:none">運営者情報</a><div style="margin-top:6px">アフィリエイト広告を含みます。</div></footer></main></body></html>

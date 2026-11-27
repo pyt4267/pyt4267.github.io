@@ -12,6 +12,7 @@
 
 ## 最近の記事
 
+- [VPN選び方｜会社員が規定に沿って選ぶ方法](https://pyt4267.github.io/read/telework-vpn-company-policy/)
 - [AIボイスレコーダー選び方｜用途別比較ガイド](https://pyt4267.github.io/read/ai-voice-recorder-how-to-choose/)
 - [freee会計料金プランの選び方](https://pyt4267.github.io/read/freee-kaikei-pricing-plan/)
 - [確定申告ソフト選び方｜副業会社員向け3条件](https://pyt4267.github.io/read/tax-return-software-selection-3-criteria/)
@@ -19,6 +20,5 @@
 - [Plaud NOTE料金と用途で導入判断（会社員・個人事業主）](https://pyt4267.github.io/read/plaud-note-pricing-use-cases/)
 - [AI議事録ツール比較｜会社員が失敗しない選び方](https://pyt4267.github.io/read/ai-meeting-notes-tool-selection/)
 - [マネーフォワード料金プランを個人事業主が選ぶ手順](https://pyt4267.github.io/read/moneyforward-pricing-plan-guide/)
-- [マネーフォワードとfreee 乗り換え比較｜移行作業量で選ぶ](https://pyt4267.github.io/read/moneyforward-vs-freee-migration/)
 
 アフィリエイト広告を含みます。

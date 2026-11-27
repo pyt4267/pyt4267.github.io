@@ -12,13 +12,13 @@
 
 ## 最近の記事
 
-- [バーチャルオフィス比較｜副業法人の登記・郵便確認軸](https://pyt4267.github.io/read/virtual-office-comparison-checkpoints/)
-- [バーチャルオフィス乗り換え手順｜二重払い防止](https://pyt4267.github.io/read/virtual-office-switching-guide/)
-- [バーチャルオフィス選び方｜個人事業主向け比較軸](https://pyt4267.github.io/read/virtual-office-comparison-freelancer/)
-- [ExpressVPN長期契約の注意点｜更新料金の確認方法](https://pyt4267.github.io/read/expressvpn-long-term-contract-guide/)
 - [VPN選びで先に確認する4つの条件｜会社員・個人事業主向け](https://pyt4267.github.io/read/vpn-selection-4-criteria-before-price/)
+- [仕事で使うVPNの安全な選び方と確認手順](https://pyt4267.github.io/read/work-vpn-safe-selection/)
+- [バーチャルオフィス 郵便と登記の確認条件](https://pyt4267.github.io/read/virtual-office-mail-registration-conditions/)
+- [バーチャルオフィス乗り換え手順｜二重払い防止](https://pyt4267.github.io/read/virtual-office-switching-guide/)
 - [VPN選び方｜会社員が規定に沿って選ぶ方法](https://pyt4267.github.io/read/telework-vpn-company-policy/)
-- [AIボイスレコーダー選び方｜用途別比較ガイド](https://pyt4267.github.io/read/ai-voice-recorder-how-to-choose/)
-- [freee会計料金プランの選び方](https://pyt4267.github.io/read/freee-kaikei-pricing-plan/)
+- [バーチャルオフィス選び方｜個人事業主向け比較軸](https://pyt4267.github.io/read/virtual-office-comparison-freelancer/)
+- [Plaud NOTE料金と用途で導入判断（会社員・個人事業主）](https://pyt4267.github.io/read/plaud-note-pricing-use-cases/)
+- [確定申告ソフト選び方｜副業会社員向け3条件](https://pyt4267.github.io/read/tax-return-software-selection-3-criteria/)
 
 アフィリエイト広告を含みます。

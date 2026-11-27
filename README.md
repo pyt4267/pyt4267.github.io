@@ -12,6 +12,7 @@
 
 ## 最近の記事
 
+- [AI文字起こしの精度を上げる録音のコツ](https://pyt4267.github.io/read/ai-text-transcription-recording-tips/)
 - [マネーフォワード 口座連携失敗の原因と対処を会社員向けに解説](https://pyt4267.github.io/read/moneyforward-kouza-renkei-shippai/)
 - [クレカ審査にバーチャルオフィス住所は使える？確認手順](https://pyt4267.github.io/read/kureka-shinsa-virtual-office-address/)
 - [無料VPN 業務利用のリスクと導入前確認手順](https://pyt4267.github.io/read/free-vpn-business-risks/)
@@ -19,6 +20,5 @@
 - [経費精算の締め日対応｜会社員と個人事業主の4ルール](https://pyt4267.github.io/read/keihi-seisan-shimebi-ouat-rules/)
 - [freee会計の勘定科目の直し方｜修正手順と確認ポイント](https://pyt4267.github.io/read/freee-kaikei-kamoku-kaisei-shoki-settei/)
 - [フリーランス開業で迷わない屋号と住所の決め方](https://pyt4267.github.io/read/freelance-yagou-juusho-kimikata/)
-- [在宅勤務の情報漏洩対策：回線とWi-Fi設定の見直し](https://pyt4267.github.io/read/zaitaku-joho-roei-kaiken-settei/)
 
 アフィリエイト広告を含みます。

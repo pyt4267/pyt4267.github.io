@@ -12,13 +12,13 @@
 
 ## 最近の記事
 
+- [freee会計料金プランの選び方](https://pyt4267.github.io/read/freee-kaikei-pricing-plan/)
+- [確定申告ソフト選び方｜副業会社員向け3条件](https://pyt4267.github.io/read/tax-return-software-selection-3-criteria/)
 - [AIボイスレコーダーの選び方｜会議・インタビュー別](https://pyt4267.github.io/read/ai-voice-recorder-how-to-choose/)
+- [AI議事録無料枠の見極め方](https://pyt4267.github.io/read/ai-gijiroku-free-tier-check/)
 - [Plaud NOTE料金と用途で導入判断（会社員・個人事業主）](https://pyt4267.github.io/read/plaud-note-pricing-use-cases/)
 - [AI議事録ツール比較｜会社員が失敗しない選び方](https://pyt4267.github.io/read/ai-meeting-notes-tool-selection/)
 - [マネーフォワード料金プランを個人事業主が選ぶ手順](https://pyt4267.github.io/read/moneyforward-pricing-plan-guide/)
 - [マネーフォワードとfreee 乗り換え比較｜移行作業量で選ぶ](https://pyt4267.github.io/read/moneyforward-vs-freee-migration/)
-- [確定申告ソフト選び方｜副業会社員向け3条件](https://pyt4267.github.io/read/tax-return-software-selection-3-criteria/)
-- [仕事で使うVPNの安全な選び方と確認手順](https://pyt4267.github.io/read/work-vpn-safe-selection/)
-- [freee会計の無料範囲と切り替え目安【個人事業主向け】](https://pyt4267.github.io/read/freee-accounting-free-range-upgrade-timing/)
 
 アフィリエイト広告を含みます。

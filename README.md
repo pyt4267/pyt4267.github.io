@@ -12,6 +12,7 @@
 
 ## 最近の記事
 
+- [freeeとマネーフォワード確定申告比較：選び方を解説](https://pyt4267.github.io/read/freee-moneyforward-tax-return-comparison/)
 - [領収書をなくした再発行依頼の流れを経費精算で解説](https://pyt4267.github.io/read/receipt-lost-reissue-request/)
 - [個人事業主向け屋号付き銀行口座の開設手順と必要書類](https://pyt4267.github.io/read/yago-tsuki-ginko-kouza-kaishitsu-tejun/)
 - [公衆Wi-Fiで仕事する前に済ませる設定確認15分](https://pyt4267.github.io/read/public-wifi-setup-check-before-work/)
@@ -19,6 +20,5 @@
 - [クラウド会計とデスクトップ会計の選び方を初心者向けに解説](https://pyt4267.github.io/read/cloud-vs-desktop-accounting-how-to-choose/)
 - [e-Tax送信エラーの確認順7ステップ｜申告前の切り分け](https://pyt4267.github.io/read/e-tax-send-error-check-order/)
 - [開業届を出したら必要な手続きを順番に解説｜個人事業主向け](https://pyt4267.github.io/read/kaigyoutodoke-tetsuzuki-junban/)
-- [ExpressVPN 日本での使い方 会社員向け設定と注意点](https://pyt4267.github.io/read/expressvpn-japan-setup-notes/)
 
 アフィリエイト広告を含みます。

@@ -12,6 +12,7 @@
 
 ## 最近の記事
 
+- [バーチャルオフィス比較｜副業法人の登記・郵便確認軸](https://pyt4267.github.io/read/virtual-office-comparison-checkpoints/)
 - [バーチャルオフィス乗り換え手順｜二重払い防止](https://pyt4267.github.io/read/virtual-office-switching-guide/)
 - [バーチャルオフィス選び方｜個人事業主向け比較軸](https://pyt4267.github.io/read/virtual-office-comparison-freelancer/)
 - [ExpressVPN長期契約の注意点｜更新料金の確認方法](https://pyt4267.github.io/read/expressvpn-long-term-contract-guide/)
@@ -19,6 +20,5 @@
 - [VPN選び方｜会社員が規定に沿って選ぶ方法](https://pyt4267.github.io/read/telework-vpn-company-policy/)
 - [AIボイスレコーダー選び方｜用途別比較ガイド](https://pyt4267.github.io/read/ai-voice-recorder-how-to-choose/)
 - [freee会計料金プランの選び方](https://pyt4267.github.io/read/freee-kaikei-pricing-plan/)
-- [確定申告ソフト選び方｜副業会社員向け3条件](https://pyt4267.github.io/read/tax-return-software-selection-3-criteria/)
 
 アフィリエイト広告を含みます。

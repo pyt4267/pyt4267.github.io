@@ -12,6 +12,7 @@
 
 ## 最近の記事
 
+- [会議の文字起こしを外注せず進める手順と機材なしの準備](https://pyt4267.github.io/read/meeting-transcription-inhouse/)
 - [経費精算の締め日対応｜会社員と個人事業主の4ルール](https://pyt4267.github.io/read/keihi-seisan-shimebi-ouat-rules/)
 - [freee会計の勘定科目の直し方｜修正手順と確認ポイント](https://pyt4267.github.io/read/freee-kaikei-kamoku-kaisei-shoki-settei/)
 - [フリーランス開業で迷わない屋号と住所の決め方](https://pyt4267.github.io/read/freelance-yagou-juusho-kimikata/)
@@ -19,6 +20,5 @@
 - [議事録を時短する手順とAIレコーダーの選び方](https://pyt4267.github.io/read/meeting-minutes-time-saving-ai-recorder/)
 - [個人事業主向け会計ソフトの使い分けを場面別に解説](https://pyt4267.github.io/read/accounting-software-freee-moneyforward-usage/)
 - [請求書発行の手順を4ステップで会社員・個人事業主向けに解説](https://pyt4267.github.io/read/seikyusho-hakko-tesugyo/)
-- [副業の経費精算を自動化する手順を会社員向けに解説](https://pyt4267.github.io/read/fukugyo-keihi-seissan-jidouka-tejun/)
 
 アフィリエイト広告を含みます。

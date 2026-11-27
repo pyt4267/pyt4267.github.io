@@ -12,6 +12,7 @@
 
 ## 最近の記事
 
+- [e-Tax送信エラーの確認順7ステップ｜申告前の切り分け](https://pyt4267.github.io/read/e-tax-send-error-check-order/)
 - [開業届を出したら必要な手続きを順番に解説｜個人事業主向け](https://pyt4267.github.io/read/kaigyoutodoke-tetsuzuki-junban/)
 - [ExpressVPN 日本での使い方 会社員向け設定と注意点](https://pyt4267.github.io/read/expressvpn-japan-setup-notes/)
 - [AI文字起こしの精度を上げる録音のコツ](https://pyt4267.github.io/read/ai-text-transcription-recording-tips/)
@@ -19,6 +20,5 @@
 - [クレカ審査にバーチャルオフィス住所は使える？確認手順](https://pyt4267.github.io/read/kureka-shinsa-virtual-office-address/)
 - [無料VPN 業務利用のリスクと導入前確認手順](https://pyt4267.github.io/read/free-vpn-business-risks/)
 - [会議の文字起こしを外注せず進める手順と機材なしの準備](https://pyt4267.github.io/read/meeting-transcription-inhouse/)
-- [経費精算の締め日対応｜会社員と個人事業主の4ルール](https://pyt4267.github.io/read/keihi-seisan-shimebi-ouat-rules/)
 
 アフィリエイト広告を含みます。

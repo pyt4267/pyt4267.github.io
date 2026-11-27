@@ -12,6 +12,7 @@
 
 ## 最近の記事
 
+- [Plaud NOTE料金と用途で導入判断（会社員・個人事業主）](https://pyt4267.github.io/read/plaud-note-pricing-use-cases/)
 - [AI議事録ツール比較｜会社員が失敗しない選び方](https://pyt4267.github.io/read/ai-meeting-notes-tool-selection/)
 - [マネーフォワード料金プランを個人事業主が選ぶ手順](https://pyt4267.github.io/read/moneyforward-pricing-plan-guide/)
 - [マネーフォワードとfreee 乗り換え比較｜移行作業量で選ぶ](https://pyt4267.github.io/read/moneyforward-vs-freee-migration/)
@@ -19,6 +20,5 @@
 - [仕事で使うVPNの安全な選び方と確認手順](https://pyt4267.github.io/read/work-vpn-safe-selection/)
 - [freee会計の無料範囲と切り替え目安【個人事業主向け】](https://pyt4267.github.io/read/freee-accounting-free-range-upgrade-timing/)
 - [バーチャルオフィス 郵便と登記の確認条件](https://pyt4267.github.io/read/virtual-office-mail-registration-conditions/)
-- [AIボイスレコーダー選び方5基準](https://pyt4267.github.io/read/ai-voice-recorder-selection-guide/)
 
 アフィリエイト広告を含みます。

@@ -12,6 +12,7 @@
 
 ## 最近の記事
 
+- [freee会計の無料範囲と切り替え目安【個人事業主向け】](https://pyt4267.github.io/read/freee-accounting-free-range-upgrade-timing/)
 - [freee会計料金プランの選び方](https://pyt4267.github.io/read/freee-kaikei-pricing-plan/)
 - [仕事で使うVPNの安全な選び方と確認手順](https://pyt4267.github.io/read/work-vpn-safe-selection/)
 - [個人事業主向け会計ソフトの選び方と比較ポイント](https://pyt4267.github.io/read/accounting-software-for-freelancers/)

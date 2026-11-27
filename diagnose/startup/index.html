@@ -1,0 +1,74 @@
+<!doctype html><html lang="ja"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="description" content="3つの質問で、開業時の住所と郵便物の扱い方が変わります。">
+<link rel="canonical" href="https://pyt4267.github.io/diagnose/startup/">
+<title>バーチャルオフィス診断（3問） ｜ AI時短ラボ</title>
+<style>
+:root{--bg:#080D16;--fg:#E8EEF8;--mut:#94A3B8;--acc:#2BE3A4;--line:#1F2A3A}
+body{margin:0;background:var(--bg);color:var(--fg);font-family:-apple-system,"Segoe UI","Hiragino Sans","Noto Sans JP",sans-serif;line-height:1.8}
+main{max-width:720px;margin:0 auto;padding:28px 20px 80px}
+h1{font-size:23px;margin:0 0 8px}
+.lead{color:var(--mut);margin:0 0 22px}
+.q{margin:0 0 20px;border:1px solid var(--line);border-radius:14px;padding:16px}
+.qt{font-weight:800;margin:0 0 10px}
+label{display:block;padding:9px 12px;border:1px solid var(--line);border-radius:10px;margin:0 0 8px;cursor:pointer}
+label:has(input:checked){border-color:var(--acc);background:rgba(43,227,164,.08)}
+input{margin-right:8px}
+#go{display:block;width:100%;background:var(--acc);color:#06251A;font-weight:800;border:0;border-radius:12px;padding:15px;font-size:16px;margin-top:8px}
+#result{display:none;margin:24px 0 0}
+#why{color:#D6DEEA;margin:0 0 14px}
+.res{display:block;text-decoration:none;color:inherit;border:1.5px solid var(--acc);border-radius:14px;padding:16px;margin:0 0 12px}
+.rn{font-weight:800;color:var(--acc)}
+.rp{color:var(--mut);font-size:13.5px;margin:4px 0 8px}
+.rc{font-weight:800;color:var(--acc)}
+.pr{color:var(--mut);font-size:12px}
+a.back{display:block;margin-top:30px;color:var(--mut);text-decoration:none;font-size:14px}
+</style></head><body><main>
+<h1>バーチャルオフィス診断（3問）</h1>
+<p class="lead">3つの質問で、開業時の住所と郵便物の扱い方が変わります。</p>
+<div id="form"></div>
+<button id="go">診断する</button>
+<div id="result"><p id="why"></p><div id="cards"><a class="res" data-cand="karigo" href="https://px.a8.net/svt/ejp?a8mat=4BGD73+A1E82A+1N1U+626XV&a8sns=instagram&sub_id=diagnose-startup" target="_blank" rel="noopener sponsored nofollow"><div class="rn">Karigo バーチャルオフィス</div><div class="rp">住所・郵便受け・電話番号が月額で持てる。屋号で請求書を出したい人向け。</div><div class="rc">詳しく見る →</div></a></div><p class="pr">アフィリエイト広告を含みます。</p></div>
+<a class="back" href="/diagnose">← 診断の一覧へ</a>
+</main>
+<script>
+const Q = [{"q": "開業の形態は？", "a": [["個人事業主", "sole"], ["法人", "corp"], ["これから検討", "plan"]]}, {"q": "郵便物は？", "a": [["受け取りたい", "mail"], ["ほぼ来ない", "nomail"]]}, {"q": "自宅の住所は？", "a": [["出したくない", "hidden"], ["公開してよい", "public"]]}];
+const R = [{"when": {"hidden": true}, "pick": "karigo", "why": "自宅住所を出さずに屋号で事業をするなら、バーチャルオフィスの住所を使う方法があります。"}, {"when": {"mail": true}, "pick": "karigo", "why": "郵便物の受け取りと転送の条件はサービスごとに違うため、契約前に必ず確認します。"}, {"when": {"corp": true}, "pick": "karigo", "why": "法人登記に使えるかどうかはサービスごとに条件が異なるため、登記可否を確認して選びます。"}];
+const form = document.getElementById('form');
+Q.forEach((q, qi) => {
+  const box = document.createElement('div');
+  box.className = 'q';
+  const t = document.createElement('p');
+  t.className = 'qt';
+  t.textContent = q.q;
+  box.appendChild(t);
+  q.a.forEach((a, ai) => {
+    const label = document.createElement('label');
+    const inp = document.createElement('input');
+    inp.type = 'radio';
+    inp.name = 'q' + qi;
+    inp.value = a[1];
+    if (ai === 0) inp.checked = true;
+    label.appendChild(inp);
+    label.appendChild(document.createTextNode(a[0]));
+    box.appendChild(label);
+  });
+  form.appendChild(box);
+});
+document.getElementById('go').addEventListener('click', () => {
+  const picks = {};
+  Q.forEach((q, qi) => {
+    const el = document.querySelector('input[name="q' + qi + '"]:checked');
+    if (el) picks[el.value] = true;
+  });
+  let hit = R.find(r => Object.keys(r.when).every(k => picks[k]));
+  if (!hit) hit = R[R.length - 1];
+  document.getElementById('why').textContent = hit.why;
+  document.querySelectorAll('.res').forEach(el => {
+    el.style.display = (el.dataset.cand === hit.pick) ? 'block' : 'none';
+  });
+  document.getElementById('result').style.display = 'block';
+  document.getElementById('result').scrollIntoView({behavior:'smooth'});
+});
+</script>
+</body></html>

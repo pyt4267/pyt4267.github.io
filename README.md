@@ -12,13 +12,13 @@
 
 ## 最近の記事
 
-- [個人事業主の確定申告でfreeeが向くケースと注意点](https://pyt4267.github.io/read/freee-kojin-jigyo-shinkoku-mukiai/)
-- [請求書の催促文例｜入金遅い取引先へ今日送れる件名文面](https://pyt4267.github.io/read/seikyusho-sokubun-kyusoku-rei/)
-- [Karigo郵便転送の使い方｜会社員・個人事業主向け手順](https://pyt4267.github.io/read/karigo-yubin-tensou-tsukaikata/)
-- [テレワークVPNが切れる原因4つと今日の対処手順](https://pyt4267.github.io/read/telework-vpn-disconnect/)
-- [AIイヤホンで会議メモを取る手順と同意の取り方](https://pyt4267.github.io/read/ai-earphone-meeting-memo/)
-- [freeeとマネーフォワード確定申告比較：選び方を解説](https://pyt4267.github.io/read/freee-moneyforward-tax-return-comparison/)
-- [領収書をなくした再発行依頼の流れを経費精算で解説](https://pyt4267.github.io/read/receipt-lost-reissue-request/)
-- [個人事業主向け屋号付き銀行口座の開設手順と必要書類](https://pyt4267.github.io/read/yago-tsuki-ginko-kouza-kaishitsu-tejun/)
+- [VPN選び方｜会社員が規定に沿って選ぶ方法](https://pyt4267.github.io/read/telework-vpn-company-policy/)
+- [e-Tax送信エラーの確認順7ステップ｜申告前の切り分け](https://pyt4267.github.io/read/e-tax-send-error-check-order/)
+- [仕事で使うVPNの安全な選び方と確認手順](https://pyt4267.github.io/read/work-vpn-safe-selection/)
+- [バーチャルオフィス 郵便と登記の確認条件](https://pyt4267.github.io/read/virtual-office-mail-registration-conditions/)
+- [freee会計料金プランの選び方](https://pyt4267.github.io/read/freee-kaikei-pricing-plan/)
+- [AIボイスレコーダー選び方5基準](https://pyt4267.github.io/read/ai-voice-recorder-selection-guide/)
+- [個人事業主向け会計ソフトの選び方と比較ポイント](https://pyt4267.github.io/read/accounting-software-for-freelancers/)
+- [AI議事録無料枠の見極め方](https://pyt4267.github.io/read/ai-gijiroku-free-tier-check/)
 
 アフィリエイト広告を含みます。

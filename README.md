@@ -12,6 +12,7 @@
 
 ## 最近の記事
 
+- [議事録を時短する手順とAIレコーダーの選び方](https://pyt4267.github.io/read/meeting-minutes-time-saving-ai-recorder/)
 - [個人事業主向け会計ソフトの使い分けを場面別に解説](https://pyt4267.github.io/read/accounting-software-freee-moneyforward-usage/)
 - [請求書発行の手順を4ステップで会社員・個人事業主向けに解説](https://pyt4267.github.io/read/seikyusho-hakko-tesugyo/)
 - [副業の経費精算を自動化する手順を会社員向けに解説](https://pyt4267.github.io/read/fukugyo-keihi-seissan-jidouka-tejun/)
@@ -19,6 +20,5 @@
 - [VPN選びで先に確認する4つの条件｜会社員・個人事業主向け](https://pyt4267.github.io/read/vpn-selection-4-criteria-before-price/)
 - [仕事で使うVPNの安全な選び方と確認手順](https://pyt4267.github.io/read/work-vpn-safe-selection/)
 - [バーチャルオフィス 郵便と登記の確認条件](https://pyt4267.github.io/read/virtual-office-mail-registration-conditions/)
-- [バーチャルオフィス乗り換え手順｜二重払い防止](https://pyt4267.github.io/read/virtual-office-switching-guide/)
 
 アフィリエイト広告を含みます。

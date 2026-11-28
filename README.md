@@ -12,6 +12,7 @@
 
 ## 最近の記事
 
+- [出張先で安全に使えるVPNの選び方と設定](https://pyt4267.github.io/read/vpn/)
 - [VPN選び方｜会社員が規定に沿って選ぶ方法](https://pyt4267.github.io/read/telework-vpn-company-policy/)
 - [e-Tax送信エラーの確認順7ステップ｜申告前の切り分け](https://pyt4267.github.io/read/e-tax-send-error-check-order/)
 - [仕事で使うVPNの安全な選び方と確認手順](https://pyt4267.github.io/read/work-vpn-safe-selection/)
@@ -19,6 +20,5 @@
 - [freee会計料金プランの選び方](https://pyt4267.github.io/read/freee-kaikei-pricing-plan/)
 - [AIボイスレコーダー選び方5基準](https://pyt4267.github.io/read/ai-voice-recorder-selection-guide/)
 - [個人事業主向け会計ソフトの選び方と比較ポイント](https://pyt4267.github.io/read/accounting-software-for-freelancers/)
-- [AI議事録無料枠の見極め方](https://pyt4267.github.io/read/ai-gijiroku-free-tier-check/)
 
 アフィリエイト広告を含みます。

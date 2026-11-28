@@ -12,6 +12,7 @@
 
 ## 最近の記事
 
+- [屋号に使えない文字と登記時の注意点を解説](https://pyt4267.github.io/read/a1795842369/)
 - [出張先で安全に使えるVPNの選び方と設定](https://pyt4267.github.io/read/vpn/)
 - [VPN選び方｜会社員が規定に沿って選ぶ方法](https://pyt4267.github.io/read/telework-vpn-company-policy/)
 - [e-Tax送信エラーの確認順7ステップ｜申告前の切り分け](https://pyt4267.github.io/read/e-tax-send-error-check-order/)
@@ -19,6 +20,5 @@
 - [バーチャルオフィス 郵便と登記の確認条件](https://pyt4267.github.io/read/virtual-office-mail-registration-conditions/)
 - [freee会計料金プランの選び方](https://pyt4267.github.io/read/freee-kaikei-pricing-plan/)
 - [AIボイスレコーダー選び方5基準](https://pyt4267.github.io/read/ai-voice-recorder-selection-guide/)
-- [個人事業主向け会計ソフトの選び方と比較ポイント](https://pyt4267.github.io/read/accounting-software-for-freelancers/)
 
 アフィリエイト広告を含みます。
